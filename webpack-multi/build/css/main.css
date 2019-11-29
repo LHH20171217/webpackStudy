@@ -1,0 +1,9 @@
+#box {
+    font-size: 40px;
+}
+
+.box-bgc {
+    background-image: url(../images/main-7d7a772f.jpg);
+    width: 200px;
+    height: 200px;
+}
